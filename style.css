@@ -17,3 +17,13 @@ body {
   min-width: 1000px;
   margin: 48px auto;
 }
+.text {
+  column-count: 3;
+  column-gap: 48px;
+  text-align: justify;
+}
+
+p {
+  line-height: 36px;
+  padding-bottom: 12px;
+}

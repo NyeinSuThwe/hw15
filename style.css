@@ -33,3 +33,9 @@ h1 {
   font-weight: 700;
   margin-bottom: 6px;
 }
+h2 {
+  font-style: italic;
+  font-size: 19px;
+  margin-bottom: 48px;
+  font-weight: 400;
+}

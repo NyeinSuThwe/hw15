@@ -27,3 +27,9 @@ p {
   line-height: 36px;
   padding-bottom: 12px;
 }
+
+h1 {
+  font-family: palatino, serif;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
